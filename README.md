@@ -2,8 +2,7 @@
 - I have started learn programming since the social distancing. Most of the time I spend on developing business processors and automation. Sometimes for creative artworks designs.
 
 - 💞️ I’m looking to collaborate on #WebDevelopment ---> #PowerApps , self-organized tasks in #CompanyPortal, teamwork work home and restful #AI #ChatBot for CRM
-- 📫 Reach me at ngotung.thao@heineken.com
--                 fressor@outlook.com.vn
+- 📫 Reach me at ngotung.thao@heineken.com or fressor@icloud.com
 
 <!---
 Fressor/Fressor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
